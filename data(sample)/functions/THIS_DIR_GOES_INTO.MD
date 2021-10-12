@@ -1,0 +1,1 @@
+COPY THIS DIR INTO %appdata%\.minecraft\data\functions
